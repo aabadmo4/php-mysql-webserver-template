@@ -8,3 +8,4 @@
 # composer vendor files
 vendor/
 /nbproject/private/
+/nbproject/
